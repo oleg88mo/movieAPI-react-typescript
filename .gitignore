@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+/.sass-cache
+.sass-cache
+.idea
+/.idea
+
 # testing
 /coverage
 
